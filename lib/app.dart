@@ -4,6 +4,7 @@ import 'product_list_tab.dart';
 import 'search_tab.dart';
 import 'shopping_cart_tab.dart';
 
+// ignore this line
 class CupertinoStoreApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
